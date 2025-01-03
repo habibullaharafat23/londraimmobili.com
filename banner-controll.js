@@ -34,7 +34,7 @@ var cookieInfoText = ["Expiration", "Domain", "Controller"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "https://londraimmobili.com/wp-content/uploads/2024/11/londra_immobili-logo-neg-2024-1536x932.png";
+var websiteLogo = "https://londraimmobili.com/wp-content/uploads/2024/11/londra_immobili-logo2024-1024x622.png";
 
 var logoWidth = "50px";
 
